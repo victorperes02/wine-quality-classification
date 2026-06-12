@@ -40,5 +40,3 @@ Conclusão
 Este estudo destaca a eficácia dos modelos de aprendizagem profunda para a classificação da qualidade do vinho:
 
 As CNNs são mais adequadas para dados tabulares estruturados. As LSTMs oferecem adaptabilidade e resultados robustos. Os autoencoders, embora úteis para redução de dimensionalidade, podem comprometer a precisão da classificação. Trabalhos futuros poderiam abordar desafios como desequilíbrio de classes e tamanho limitado do conjunto de dados, explorando técnicas avançadas de sobreamostragem e aumento de dados.
-
-Desenvolvido por Morteza Farrokhnejad.
